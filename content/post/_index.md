@@ -1,6 +1,9 @@
 ---
 title: Posts
 
+weight = 10  # Order that this section will appear.
+
+
 # View.
 #   1 = List
 #   2 = Compact
