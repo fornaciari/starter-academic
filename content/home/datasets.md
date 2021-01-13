@@ -1,12 +1,20 @@
 ---
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: portfolio  # See https://sourcethemes.com/academic/docs/page-builder/
 
-title = "Data sets"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Data sets
+subtitle: ""
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 [content]
   # Page type to display. E.g. project.
@@ -77,5 +85,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+    
 ---
-
