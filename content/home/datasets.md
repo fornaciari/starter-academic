@@ -1,24 +1,16 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio  # See https://sourcethemes.com/academic/docs/page-builder/
++++
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
+title = "Data sets"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 40
-
-title: Data sets
-subtitle: ""
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-- content
+[content]
   # Page type to display. E.g. project.
-  page_type : dataset
+  page_type = "dataset"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -27,37 +19,37 @@ date_format: Jan 2006
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default : 0
+  filter_default = 0
   
-  - content.filter_button
-    name : "All"
-    tag : "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  - content.filter_button
-    name : "DeCour"
-    tag : "DeCour"
+  [[content.filter_button]]
+    name = "DeCour"
+    tag = "DeCour"
   
-  - content.filter_button
-    name : "DeRev 2014"
-    tag : "DeRev2014"
+  [[content.filter_button]]
+    name = "DeRev 2014"
+    tag = "DeRev2014"
   
-  - content.filter_button
-    name : "DeRev 2018"
-    tag : "DeRev2018"
+  [[content.filter_button]]
+    name = "DeRev 2018"
+    tag = "DeRev2018"
 
-- design
+[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns : "2"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view : 3
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows : false
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,24 +58,24 @@ date_format: Jan 2006
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color : "navy"
+  # color = "navy"
   
   # Background gradient.
-  # gradient_start : "DeepSkyBlue"
-  # gradient_end : "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
-  # image : "background.jpg"  # Name of image in `static/img/`.
-  # image_darken : 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light : true  
+  # text_color_light = true  
   
-- advanced
+[advanced]
  # Custom CSS. 
- css_style : ""
+ css_style = ""
  
  # CSS class.
- css_class : ""
-    
----
+ css_class = ""
++++
+
