@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-link: content/publication/dhtf2018/2018_emnlp.pdf
-url_pdf:
+# link: content/publication/dhtf2018/2018_emnlp.pdf
+url_pdf: content/publication/dhtf2018/2018_emnlp.pdf
 url_code:
 url_dataset:
 url_poster:
