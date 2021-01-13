@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Postdoc \n\n Direttore Tecnico Superiore"
+role: "Postdoc\n\nDirettore Tecnico Superiore\ndella Polizia di Stato"
 
 # Organizations/Affiliations
 organizations:
