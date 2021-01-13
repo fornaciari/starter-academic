@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/vopmb4qf83omk09/2012_lrec.pdf?dl=0"
+url_pdf: media/2012_lrec.pdf
 url_code:
 url_dataset:
 url_poster:
