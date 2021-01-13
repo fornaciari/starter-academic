@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/un4zotgcjb94unp/2019_emnlp_m2v.pdf?dl=0"
+url_pdf: media/2019_emnlp_m2v.pdf
 url_code:
 url_dataset:
 url_poster:
