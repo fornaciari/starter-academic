@@ -44,6 +44,7 @@ experience:
   description : >
     Chief of the Technical Secretariat of the Committee for Innovation and Standardization of ICT Systems (ComISSIT). 
   
+  
     Supporting the activities of research and technological innovation of the Department of Public Security
   
 
@@ -56,6 +57,7 @@ experience:
   description : >
     PhD in computational linguistics
   
+  
     Applying Machine Learning methods for deception detection in Court cases
   
 
@@ -67,6 +69,7 @@ experience:
   date_end : "2013-01-01"
   description : >
     Assigned to the Forensic Science Police Service
+  
   
     Performing criminal analysis through crime scene analysis, information analysis and behavioral analysis mainly on bloody murders and suspect deaths
   
