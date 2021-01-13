@@ -1,6 +1,7 @@
 ---
 title: Deception detection, new paper at EACL2021[EACL2021](https://2021.eacl.org/)!
-subtitle: \"BERTective, or detective BERT\: Language Models and Contextual Information for Deception Detection\", with Dirk Hovy, Federico Bianchi and Massimo Poesio
+subtitle: >
+\"BERTective, or detective BERT\: Language Models and Contextual Information for Deception Detection\", with Dirk Hovy, Federico Bianchi and Massimo Poesio
 
 # Summary for listings and search engines
 summary: "BERTective, or detective BERT: Language Models and Contextual Information for Deception Detection"
