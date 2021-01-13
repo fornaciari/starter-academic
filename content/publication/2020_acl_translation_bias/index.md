@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "YCan You Translate that into Man? Commercial Machine Translation Systems Include Stylistic Biases"
+title: "Can You Translate that into Man? Commercial Machine Translation Systems Include Stylistic Biases"
 authors: [Hovy D., Bianchi F., Fornaciari T.]
 date: 2020-01-01
 doi: ""
