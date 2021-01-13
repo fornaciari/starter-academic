@@ -3,7 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
 
-actvie: false
+active: false
 
 # This file represents a page section.
 headless: true
