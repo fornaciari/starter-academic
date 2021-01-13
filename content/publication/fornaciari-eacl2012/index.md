@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/7psxwgqitk09ifv/2012_eacl.pdf?dl=0"
+url_pdf: media/2012_eacl.pdf
 url_code:
 url_dataset:
 url_poster:
