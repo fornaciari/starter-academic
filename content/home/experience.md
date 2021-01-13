@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 [[experience]]
   title : PostDoc
-  company : Bocconi University
-  company_url : ""
-  location : Milan
-  date_start : "2018-01-01"
-  date_end : "2022-03-31"
-  description : >
-  Applying Deep Learning methods for Social Sciences
-  
-  Dealing with geolocation, age and gender prediction, deception detection, bias
+#  company : Bocconi University
+#  company_url : ""
+#  location : Milan
+#  date_start : "2018-01-01"
+#  date_end : "2022-03-31"
+#  description : >
+#  Applying Deep Learning methods for Social Sciences
+#  
+#  Dealing with geolocation, age and gender prediction, deception detection, bias
 
 ---
