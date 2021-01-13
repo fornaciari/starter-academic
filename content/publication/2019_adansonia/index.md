@@ -7,7 +7,7 @@ date: 2019
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 
+publishDate: 2019
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
+publication: "IZA Discussion Paper"
 publication_short: ""
 
 abstract: ""
