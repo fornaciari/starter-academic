@@ -4,7 +4,7 @@ subtitle: >
   BERTective, or detective BERT. 
   
   
-  Language Models and Contextual Information for Deception Detection, with Dirk Hovy, Federico Bianchi and Massimo Poesio
+  Language Models and Contextual Information for Deception Detection, with [Dirk Hovy](https://twitter.com/dirk_hovy), [Federico Bianchi](https://twitter.com/fb_vinid) and [Massimo Poesio](https://twitter.com/poesio)
 
 # Summary for listings and search engines
 summary: BERTective, or detective BERT Language Models and Contextual Information for Deception Detection
