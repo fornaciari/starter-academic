@@ -30,6 +30,7 @@ experience:
   date_end : "2022-03-31"
   description : >
     Applying Deep Learning methods for Social Sciences
+    
   
     Dealing with geolocation, age and gender prediction, deception detection, bias
   
