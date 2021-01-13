@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-link: media/cv_noref.pdf
+# link: media/cv_noref.pdf
 url_pdf: media/cv_noref.pdf
 url_code:
 url_dataset:
