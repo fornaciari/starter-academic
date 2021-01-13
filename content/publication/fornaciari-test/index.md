@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/zwn713a1sfj21vq/2013_polmod_test.pdf?dl=0"
+url_pdf: media/2013_polmod_test.pdf
 url_code:
 url_dataset:
 url_poster:
