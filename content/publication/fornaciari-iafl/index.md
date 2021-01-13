@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/owf1o7nugwe6bgj/2011_iafl.pdf?dl=0"
+url_pdf: media/2011_iafl.pdf
 url_code:
 url_dataset:
 url_poster:
