@@ -25,7 +25,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: Linguistic cues of deception with Sampling and Occlusion (SOC) algorithm (Jin et al., 2019)
-  focal_point: ""
+  focal_point: smart
   placement: 1
   preview_only: false
 
