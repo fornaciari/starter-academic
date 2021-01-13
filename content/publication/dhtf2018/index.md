@@ -36,7 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: emnlp_2018.pdf
+link: media/cv_noref.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
