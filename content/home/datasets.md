@@ -16,7 +16,7 @@ subtitle: ""
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-[content]
+- content
   # Page type to display. E.g. project.
   page_type : dataset
   
@@ -29,23 +29,23 @@ date_format: Jan 2006
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default : 0
   
-  [[content.filter_button]]
+  - content.filter_button
     name : "All"
     tag : "*"
   
-  [[content.filter_button]]
+  - content.filter_button
     name : "DeCour"
     tag : "DeCour"
   
-  [[content.filter_button]]
+  - content.filter_button
     name : "DeRev 2014"
     tag : "DeRev2014"
   
-  [[content.filter_button]]
+  - content.filter_button
     name : "DeRev 2018"
     tag : "DeRev2018"
 
-[design]
+- design
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns : "2"
 
@@ -79,7 +79,7 @@ date_format: Jan 2006
   # Text color (true=light or false=dark).
   # text_color_light : true  
   
-[advanced]
+- advanced
  # Custom CSS. 
  css_style : ""
  
