@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/hp1qviqbv7flhkf/2015_book.pdf?dl=0"
+url_pdf: media/2015_book.pdf
 url_code:
 url_dataset:
 url_poster:
