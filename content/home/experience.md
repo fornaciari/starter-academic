@@ -27,7 +27,7 @@ experience:
   company_url : ""
   location : Milan
   date_start : "2018-01-01"
-  date_end : "2022-03-31"
+  date_end : "2021-03-31"
   description : >
     Applying Deep Learning methods for Social Sciences
     
