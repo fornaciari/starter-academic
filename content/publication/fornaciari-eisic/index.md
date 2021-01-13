@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/suakb38xxqg5iaj/2013_fortan.pdf?dl=0"
+url_pdf: media/2013_fortan.pdf
 url_code:
 url_dataset:
 url_poster:
