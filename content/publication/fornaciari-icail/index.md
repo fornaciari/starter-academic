@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/s/yqhlu7d5k230ua2/2011_icail.pdf?dl=0"
+url_pdf: media/2011_icail.pdf
 url_code:
 url_dataset:
 url_poster:
