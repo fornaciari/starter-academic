@@ -26,7 +26,7 @@ featured: false
 image:
   caption: Linguistic cues of deception with Sampling and Occlusion (SOC) algorithm (Jin et al., 2019)
   focal_point: Top
-  placement: 1
+  placement: 2
   preview_only: false
 
 authors:
