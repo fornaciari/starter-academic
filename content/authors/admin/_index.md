@@ -1,6 +1,6 @@
 ---
 title: Tommaso Fornaciari
-role: Professor of Artificial Intelligence
+role: Postdoc \n\n Direttore Tecnico Superiore
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -42,9 +42,12 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a forensic psychologist of the Italian National Police.
+I carried out criminal analysis for cases of homicide.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my PhD, I applied NLP methods for deception detection.
+Afterwards he dealt with technological innovation for Open Source INTelligence at the Ministry of Interior.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since 2018 I am on leave as attending a postdoc at the Bocconi University, where I apply Deep Learning methods for social sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
