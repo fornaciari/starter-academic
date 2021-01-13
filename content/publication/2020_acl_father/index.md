@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "You Sound Just Like Your Father" Commercial Machine Translation Systems Include Stylistic Biases
+title: "\"You Sound Just Like Your Father\" Commercial Machine Translation Systems Include Stylistic Biases"
 authors: [Hovy D., Bianchi F., Fornaciari T.]
 date: 2020-01-01
 doi: ""
