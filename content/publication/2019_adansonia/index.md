@@ -3,7 +3,7 @@
 
 title: "Peer networks and entrepreneurship: A Pan-African RCT"
 authors: [Vega-Redondo F., Pin P., Ubfal D., Benedetti-Fasil C., Brummitt C., Rubera G., Hovy D., Fornaciari T.]
-date: 2019
+date: 2019-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
