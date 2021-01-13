@@ -4,7 +4,7 @@
 title: "Fake opinion detection: how similar are crowdsourced datasets to real data?"
 authors: [Fornaciari T., Cagnina L., Rosso P., Poesio M.]
 date: 2020-01-01
-doi: ""
+doi: "10.1007/s10579-020-09486-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-01-01
