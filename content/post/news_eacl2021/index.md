@@ -34,16 +34,16 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- Tommaso Fornaciari
-- Dirk Hovy
-- Federico Bianchi
-- Massimo Poesio
+#authors:
+#- Tommaso Fornaciari
+#- Dirk Hovy
+#- Federico Bianchi
+#- Massimo Poesio
 
-tags:
-- Deception detection
-- Deep contextual models
-- Language models
+#tags:
+#- Deception detection
+#- Deep contextual models
+#- Language models
 
 # categories:
 # - aaa
