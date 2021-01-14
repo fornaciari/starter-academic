@@ -48,6 +48,13 @@ tags:
 # - bbb
 ---
 
+links:
+- icon: file-archive
+  icon_pack: fas
+  name: Download DeCour
+  url: media/DeCour.zip"
+
+
 ## Overview
 
 Glad to announce that the paper "BERTective, or detective BERT\: Language Models and Contextual Information for Deception Detection", with [Dirk Hovy](https://twitter.com/dirk_hovy), [Federico Bianchi](https://twitter.com/fb_vinid) and [Massimo Poesio](https://twitter.com/poesio) was accepted at [EACL2021](https://2021.eacl.org/).
