@@ -52,7 +52,7 @@ links:
 - icon: file-archive
   icon_pack: fas
   name: Download DeCour
-  url: media/DeCour.zip"
+  url: media/eacl2021_decour_cameraready_draft.pdf
 
 
 ## Overview
