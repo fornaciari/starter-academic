@@ -9,7 +9,11 @@ subtitle: >
   with [Dirk Hovy](https://twitter.com/dirk_hovy), [Federico Bianchi](https://twitter.com/fb_vinid) and [Massimo Poesio](https://twitter.com/poesio)
 
 # Summary for listings and search engines
-summary: BERTective, or detective BERT Language Models and Contextual Information for Deception Detection
+summary: > 
+  BERTective, or detective BERT:
+  
+  Language Models and Contextual Information for Deception Detection
+  
 
 # Link this post with a project
 projects: []
