@@ -16,6 +16,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
+  # le istruzioni sotto inseriscono il form nei contatti, ma i messaggi arrivano su netlify e non li vedrei mai
   # Email form provider
   #form:
   #  provider: netlify
