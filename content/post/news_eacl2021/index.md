@@ -48,7 +48,7 @@ tags:
 # - bbb
 
 links:
-- icon: file-archive
+- icon: file
   icon_pack: fas
   name: Download the camera ready draft here!
   url: media/eacl2021_decour_cameraready_draft.pdf
