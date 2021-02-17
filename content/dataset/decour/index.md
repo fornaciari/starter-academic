@@ -16,7 +16,7 @@ links:
 - icon: file-archive
   icon_pack: fas
   name: Download DeCour
-  url: "files/DeCour.zip"
+  url: "media/DeCour.zip"
 url_code: ""
 url_pdf: ""
 url_slides: ""
