@@ -16,7 +16,7 @@ links:
 - icon: file-archive
   icon_pack: fas
   name: Download DeRev 2018
-  url: "static/media/DeRev2018.zip"
+  url: "media/DeRev2018.zip"
 url_code: ""
 url_pdf: ""
 url_slides: ""
