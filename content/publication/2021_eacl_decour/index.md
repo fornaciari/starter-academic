@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BERTective, or detective BERT\: Language Models and Contextual Information for Deception Detection"
+title: "BERTective: Language Models and Contextual Information for Deception Detection"
 authors: [Fornaciari T., Bianchi F., Hovy D., Poesio M.]
 date: 2021-04-09
 doi: ""
