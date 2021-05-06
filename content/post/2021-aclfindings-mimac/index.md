@@ -8,9 +8,7 @@ subtitle: >
   "'We will Reduce Taxes' - Identifying Election Pledges with Language Models"
   
   
-  with Dirk Hovy, Elin Naurin, Julia Runeson, Robert Thomson, Pankaj Adhikari
-
-[Dirk Hovy](https://twitter.com/dirk_hovy), [Elin Naurin](https://twitter.com/@elinnaurin), [Julia Runeson](https://twitter.com/@juliarune), Robert Thomson and Pankaj Adhikari
+  with [Dirk Hovy](https://twitter.com/dirk_hovy), [Elin Naurin](https://twitter.com/@elinnaurin), [Julia Runeson](https://twitter.com/@juliarune), Robert Thomson and Pankaj Adhikari
 
  has been accepted at [Findings of ACL2021](https://2021.naacl.org/)!
 
