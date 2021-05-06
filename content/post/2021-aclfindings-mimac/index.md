@@ -5,7 +5,7 @@ subtitle: >
   Glad to announce that the paper 
   
   
-  "'We will Reduce Taxes' - Identifying Election Pledges with Language Models"
+  "We will Reduce Taxes - Identifying Election Pledges with Language Models"
   
   
   with [Dirk Hovy](https://twitter.com/dirk_hovy), [Elin Naurin](https://twitter.com/@elinnaurin), [Julia Runeson](https://twitter.com/@juliarune), Robert Thomson and Pankaj Adhikari
