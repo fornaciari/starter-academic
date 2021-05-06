@@ -17,7 +17,7 @@ subtitle: >
 
 # Summary for listings and search engines
 summary: > 
-  'We will Reduce Taxes' - Identifying Election Pledges with Language Models
+  "'We will Reduce Taxes' - Identifying Election Pledges with Language Models"
   
 
 # Link this post with a project
