@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: "Postdoc\n\nDirettore Tecnico Superiore\ndella Polizia di Stato"
+role: "Direttore Tecnico Superiore\ndella Polizia di Stato"
 
 # Organizations/Affiliations
 organizations:
-- name: Bocconi University
-  url: "https://www.unibocconi.it/"
 - name: Italian National Police
   url: "https://www.poliziadistato.it/"
 
