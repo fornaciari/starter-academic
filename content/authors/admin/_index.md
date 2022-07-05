@@ -81,6 +81,8 @@ I carried out criminal analysis for cases of homicide.
 During the PhD, I applied NLP methods for deception detection.
 Afterwards I dealt with technological innovation for Open Source INTelligence at the Ministry of Interior.
 
-Since 2018 I am on leave as attending a postdoc at the Bocconi Univeristy, where I apply Deep Learning methods for social sciences.
+From 2018 to 2022 I was on leave as attending a postdoc at the Bocconi Univeristy, where I applied Deep Learning methods for social sciences.
+
+After the postdoc I came back to the Italian National Police, where I carry out activites implying the use of NLP methods for security.
 
 ---
